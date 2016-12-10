@@ -11,6 +11,8 @@ gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
 # Bootstrap for devise views
 gem 'devise-bootstrap-views', '~> 0.0.9'
+# Gem for scraping stocks
+gem 'stock_quote', '~> 1.2', '>= 1.2.6'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
