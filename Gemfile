@@ -11,6 +11,8 @@ gem 'devise', '~> 4.2'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
 # Bootstrap for devise views
 gem 'devise-bootstrap-views', '~> 0.0.9'
+# font awesome
+gem "font-awesome-rails"
 # Gem for scraping stocks
 gem 'stock_quote', '~> 1.2', '>= 1.2.6'
 # Use SCSS for stylesheets
