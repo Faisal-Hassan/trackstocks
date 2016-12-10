@@ -7,6 +7,10 @@ gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
 gem 'puma', '~> 3.0'
 # Devise for user authentication"
 gem 'devise', '~> 4.2'
+# Bootstrap for styles
+gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
+# Bootstrap for devise views
+gem 'devise-bootstrap-views', '~> 0.0.9'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
