@@ -1,24 +1,7 @@
-# README
+TrackStocks
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A web app built with Ruby on Rails to help you keep track of your stocks portfolio,
+network with your friends and follow their portfolio for mutual benefit.
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Faisal Hassan
