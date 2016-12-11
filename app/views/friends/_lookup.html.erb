@@ -28,7 +28,7 @@
 	 																								class: 'btn btn-xs btn-success' %>
  								<% if current_user.not_friends_with?(user.id) %>
  									<%= link_to "Add Friend", add_friend_path(user: current_user, friend: user), 
- 																							class: "btn btn-s btn-primary", method: :post %>
+ 																							class: "btn btn-xs btn-primary", method: :post %>
  								<% else %>
  									<span class="label label-primary">You are friends</span>
  								<% end %>
